@@ -5,4 +5,4 @@ Elastic points:
 - reverted index
   - FST（Finite State Transducer）after lucene4+
 
-Bran split: https://juejin.im/post/5d36c2f25188257f6a209d37
+Brain split: https://juejin.im/post/5d36c2f25188257f6a209d37
