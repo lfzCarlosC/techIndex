@@ -2,4 +2,4 @@ Elastic Install: https://www.elastic.co/guide/en/elasticsearch/reference/current
 
 Elastic points:
 - reverted index
-  - FST
+  - FST（Finite State Transducer）after lucene4+
